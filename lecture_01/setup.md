@@ -8,8 +8,9 @@ Following are mandatory tools to install
 - [GitKraken](https://www.gitkraken.com/download)
 
 ## Accounts
-
-- SignUp at [GitHub](https://github.com/)
+SignUp at 
+- [GitHub](https://github.com/)
+- Slack - Use the link provided to you on whatsapp
 
 ## Documentations
 
